@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zixuan Tian</title>
+    <link>https://zixuant5.github.io/</link>
+      <atom:link href="https://zixuant5.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zixuan Tian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zixuant5.github.io/media/logo_hub4241536a40aba19023fe53b0ae22453_4788_300x300_fit_lanczos_3.png</url>
+      <title>Zixuan Tian</title>
+      <link>https://zixuant5.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://zixuant5.github.io/talk/example-talk.html</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://zixuant5.github.io/talk/example-talk.html</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>This is a test</title>
+      <link>https://zixuant5.github.io/news/2023-cnrs-start.html</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zixuant5.github.io/news/2023-cnrs-start.html</guid>
+      <description>&lt;p&gt;This is my cute dog Beta&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transcranial Phase Correction Using Pulse-echo Ultrasound and Deep Learning: A 2D Numerical Study</title>
+      <link>https://zixuant5.github.io/publication/2012-optimizing-water.html</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zixuant5.github.io/publication/2012-optimizing-water.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://zixuant5.github.io/blog/about-me.html</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://zixuant5.github.io/blog/about-me.html</guid>
+      <description>&lt;img src=&#34;./img/avatar.jpg&#34; class=&#34;img-responsive&#34; alt=&#34;Me&#34; width=&#34;300&#34;/&gt;
+&lt;p&gt;Tests&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid nanoporous materials for the separation of fluid mixtures</title>
+      <link>https://zixuant5.github.io/project/hybrid-nanoporous-materials.html</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://zixuant5.github.io/project/hybrid-nanoporous-materials.html</guid>
+      <description>&lt;p&gt;Update will be posted here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zixuant5.github.io/admin.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zixuant5.github.io/admin.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
