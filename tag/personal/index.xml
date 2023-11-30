@@ -7,17 +7,26 @@
     <description>Personal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zixuant5.github.io/media/logo_hub4241536a40aba19023fe53b0ae22453_4788_300x300_fit_lanczos_3.png</url>
+      <url>https://zixuant5.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Personal</title>
       <link>https://zixuant5.github.io/tag/personal.html</link>
     </image>
     
     <item>
-      <title>This is a test</title>
+      <title>My cute dog Beta!</title>
       <link>https://zixuant5.github.io/news/2023-cnrs-start.html</link>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://zixuant5.github.io/news/2023-cnrs-start.html</guid>
       <description>&lt;p&gt;This is my cute dog Beta&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elsa and Floyd Dunn Award</title>
+      <link>https://zixuant5.github.io/news/2022-floyd-award.html</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://zixuant5.github.io/news/2022-floyd-award.html</guid>
+      <description>&lt;p&gt;I am excited to share that I received Elsa and Floyd Dunn Award&lt;/p&gt;
 </description>
     </item>
     
