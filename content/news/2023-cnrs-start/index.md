@@ -6,10 +6,9 @@ image:
   caption: Beta
   focal_point: Smart
 slides: example
-summary: Test
 tags:
 - Personal
-title: This is a test
+title: My cute dog Beta!
 links:
   - icon_pack: fas
     icon: scroll
